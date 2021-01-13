@@ -1,0 +1,2 @@
+# FreeNodesV2RayorTrojan_20210113-
+EncryptedFreeNodes
